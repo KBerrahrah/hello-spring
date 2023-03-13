@@ -1,3 +1,4 @@
 # hello-spring
-My first repository on GitHub
-I love Coffee: :soupe: , and :puzzle:
+# To improve is to change.
+# My first repository on GitHub
+ # I love Coffee, soupe, and puzzle.
